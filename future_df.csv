@@ -1,0 +1,11 @@
+,Insurance Validity,Fuel Type,Year of Manufacture,transmission,ownerNo,oem,Wheel Size,No of Cylinder,Fuel Suppy System,Turbo Charger,Length,Width,Height,Wheel Base,Drive Type,Seating Capacity,Steering Type,Tyre Type,No Door Numbers,Cargo Volumn,Mileage,Value Configuration,Super Charger,Turning Radius,km_winsorized
+2344,Comprehensive,Petrol,2016.0,Manual,2,Renault,14.0,3.0,MPFi,No,3679.0,1579.0,1478.0,2422.0,FWD,5.0,Power,"tubeless,radial",5.0,300.0,25.17,DOHC,No,4.9,10.90667132106464
+6160,Third Party insurance,Petrol,2021.0,Manual,1,Hyundai,16.0,4.0,Unknown,No,3995.0,1770.0,1605.0,2500.0,FWD,5.0,Power,radial,5.0,350.0,17.52,Unknown,Unknown,4.624104359574424,11.002116507732016
+573,Third Party insurance,Petrol,2020.0,Automatic,2,Maruti,16.0,4.0,Unknown,Unknown,4490.0,1730.0,1485.0,2650.0,FWD,5.0,Power,"tubeless,radial",4.0,510.0,20.04,DOHC,Unknown,5.4,9.702973165917758
+93,Comprehensive,Diesel,2018.0,Automatic,2,Mercedes-Benz,17.0,6.0,CRDI,Yes,5063.0,1860.0,1494.0,3079.0,RWD,5.0,Electric,"tubeless,radial",4.0,540.0,17.0,DOHC,No,6.0,10.085850775128716
+2586,Comprehensive,Diesel,2017.0,Automatic,3,Mahindra,17.0,4.0,Direct Injection,Yes,4585.0,1890.0,1785.0,2700.0,FWD,7.0,Power,"tubeless,radial",5.0,720.0,16.0,DOHC,No,5.6,11.380935740507276
+4013,Third Party insurance,Petrol,2022.0,Automatic,1,Maruti,16.0,4.0,Unknown,Unknown,3845.0,1735.0,1530.0,2450.0,FWD,5.0,Electric,"radial,tubeless",5.0,268.0,22.56,DOHC,Unknown,4.8,9.90353755128617
+4987,Third Party insurance,Petrol,2022.0,Manual,1,Maruti,16.0,4.0,Unknown,Unknown,3995.0,1790.0,1685.0,2500.0,Unknown,5.0,Electric,"tubeless,radial",5.0,328.0,19.89,Unknown,Unknown,5.4601278078135564,9.799847777776368
+2069,Comprehensive,Petrol,2021.0,Manual,1,Tata,15.0,3.0,Unknown,Unknown,3765.0,1677.0,1535.0,2400.0,FWD,5.0,Electric,"tubeless,radial",5.0,291.50982100074566,19.01,DOHC,Unknown,2.5071245198172107,9.702973165917758
+7375,Comprehensive,Petrol,2021.0,Manual,1,Hyundai,16.0,4.0,Unknown,No,3995.0,1775.0,1505.0,2580.0,FWD,5.0,Electric,"tubeless,radial",5.0,311.0,21.0,DOHC,Unknown,2.9990303199075825,9.966509298952284
+3442,Comprehensive,Diesel,2013.0,Manual,1,Toyota,17.0,4.0,CRDi,Yes,4705.0,1840.0,1850.0,2750.0,FWD,7.0,Power,"tubeless,radial",5.0,296.0,13.0,DOHC,No,5.6,11.563955014694816
